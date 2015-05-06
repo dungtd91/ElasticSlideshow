@@ -1,0 +1,26 @@
+{
+  "name": "ElasticSlideshow",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ismailakdogan/ElasticSlideshow",
+  "authors": [
+    "Ismail AKDOGAN <ismail.akdogan@marmara.edu.tr>"
+  ],
+  "description": "Elastic Image Slideshow with Thumbnail Preview",
+  "main": ["./css/style.css", "./js/jquery.eislideshow.js"],
+  "keywords": [
+    "slideshow",
+    "slider",
+    "jquery",
+    "slider",
+    "jquery",
+    "slideshow",
+    "elastic",
+    "slideshow",
+    "elastic",
+    "slider"
+  ],
+  "dependencies": {
+    "jquery": "= 1.7.0",
+    "jquery.easing": "^ 1.3.1"
+  }
+}
