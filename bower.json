@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "homepage": "https://github.com/ismailakdogan/ElasticSlideshow",
   "authors": [
-    "Ismail AKDOGAN <ismail.akdogan@marmara.edu.tr>"
+    "Ismail AKDOGAN <webmaster@ismailakdogan.com>"
   ],
   "description": "Elastic Image Slideshow with Thumbnail Preview",
   "main": ["./css/style.css", "./js/jquery.eislideshow.js"],
